@@ -1,0 +1,15 @@
+name: word_drama_dictionary_example
+publish_to: none
+environment:
+  sdk: ^3.3.0
+  flutter: '>=3.19.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  word_drama_dictionary:
+    path: ../
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true

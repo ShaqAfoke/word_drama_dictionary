@@ -1,0 +1,11 @@
+# Entries rejected for this game unless independently re-reviewed later.
+# Each is an unsupported abbreviation, proper name/geographical name, or a
+# deliberately invalid test string in the present policy.
+FBI
+NASA
+AARON
+OHIO
+QXZ
+
+FAA
+PARIS

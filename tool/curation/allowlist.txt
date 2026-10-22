@@ -1,0 +1,9 @@
+# Reviewed ordinary-word entries retained even though they may be rare,
+# short, interjections, or have unrelated acronym/name uses.
+FLAKE
+FLAKES
+FLAKING
+OHO
+QI
+ZA
+JO

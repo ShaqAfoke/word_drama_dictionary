@@ -1,0 +1,10 @@
+word_drama_dictionary contains filtered data derived from the Wordnik game
+wordlist (https://github.com/wordnik/wordlist), copyright (c) 2020 Wordnik.
+
+The upstream Wordnik game wordlist is licensed under the MIT License. Its
+license text is included verbatim at licenses/WORDNIK_LICENSE. The vendored
+source snapshot is retained at third_party/wordnik_wordlist/.
+
+The source is filtered by tool/build_dictionary.dart with the documented
+curation files under tool/curation/. This package does not claim that the
+Wordnik source or the resulting list is exhaustive dictionary authority.

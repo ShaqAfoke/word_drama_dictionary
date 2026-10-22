@@ -1,0 +1,17 @@
+name: word_drama_dictionary
+description: Offline, reproducibly filtered English word and prefix validation for Word Drama.
+version: 0.1.0
+repository: https://github.com/REPLACE_WITH_OWNER/word_drama_dictionary
+environment:
+  sdk: ^3.3.0
+  flutter: '>=3.19.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  assets:
+    - assets/words.txt
